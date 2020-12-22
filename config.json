@@ -1,4 +1,4 @@
-{"host":"gustavoiglesias.com.ar"
-,"user":"phpmyadmin"
-,"password":"1234"
-,"database": "morleydb"}
+{"host":"ingresar_host"
+,"user":"ingresar_usuario"
+,"password":"ingresar_contraseña"
+,"database": "ingresar_bdd"}
